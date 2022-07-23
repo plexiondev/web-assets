@@ -1,4 +1,3 @@
-# web-assets
 Please review the [LICENSE](LICENSE) before continuing.
 
 ## [item](item)
